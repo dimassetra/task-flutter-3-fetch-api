@@ -1,21 +1,7 @@
-# Task: My Blog (API)
+![Screenshot 2024-11-14 095817](https://github.com/user-attachments/assets/ebce8d44-b79f-4cf0-812a-ca090bda176c)
 
-## Reload Data
+![Screenshot 2024-11-14 095805](https://github.com/user-attachments/assets/12b6b93e-6063-4023-a29d-2ab71919e0ff)
 
-![Screenshot 2024-11-13 142111](https://github.com/user-attachments/assets/bbb643c8-9053-48d5-af39-8d8fd0ced559)
+![Screenshot 2024-11-14 095817](https://github.com/user-attachments/assets/bdd04f99-d3cb-4e2d-8d47-8e7f0fccb777)
 
-
-## User List
-
-![Screenshot 2024-11-13 142130](https://github.com/user-attachments/assets/7cff6505-8039-48a7-a5fa-8057a47a456b)
-
-
-## Delete Data
-
-![Screenshot 2024-11-13 142143](https://github.com/user-attachments/assets/029d2b32-b45a-470b-8a88-aaa5b1d4fcaf)
-
-
-## Detail Page
-
-![Screenshot 2024-11-13 142208](https://github.com/user-attachments/assets/dd437c9a-fab2-422a-861f-a1cdab501f20)
-
+![image](https://github.com/user-attachments/assets/f33da64e-b31c-4d13-9724-509609b56e9e)
